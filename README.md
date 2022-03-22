@@ -29,3 +29,9 @@ Pour résoudre ce problème, on utilise d'autres métriques d'évaluation telles
 ![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_train_metrics.png?raw=true)
 
 ![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_interpretation.png?raw=true)
+
+On voit qu'on a une precision élevée. Ce qui signifie qu'on prédit bien si une personne est malade. Par contre on détecte très mal si une personne est saine. en effet, la précision associée est de 0.26, ce qui est très faible.
+
+D'après le recall, on voit aussi que le modèle ne prédit correctement que 63% des personnes malades contre 39% des gens pas malades. C'est encore une fois un résultat qui n'est pas satisfaisant.
+
+Le F1-score qui est une sorte de "moyenne" entre recall et precision nous confirme que notre modèle n'est pas satisfaisant tel quel.
