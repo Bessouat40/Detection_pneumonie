@@ -4,3 +4,15 @@ Utilisation de deep/machine learning pour prédire à partir d'une radio du thor
 # Base de données
 
 Vous pouvez retrouver la base de données utilisée sur ce site : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+# Problème dans ce jeu de données 
+
+La base de données est mal balancée, en effet il y a plus d'exemples de patients malades que de patients sains.
+On ne peut donc pas utiliser l'accuracy comme indicateur de performance de notre modèle.
+
+## Solution 
+
+Pour résoudre ce problème, on utilise d'autres métriques d'évaluation telles que la précision, le rappel ou la F measure.
+
+# Résultats obtenus à l'aide d'un réseau de neurones convolutif (couches de convolution, couches de maxpooling)
+
