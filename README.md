@@ -16,3 +16,16 @@ Pour résoudre ce problème, on utilise d'autres métriques d'évaluation telles
 
 # Résultats obtenus à l'aide d'un réseau de neurones convolutif (couches de convolution, couches de maxpooling)
 
+## Résultats de l'entrainement du modèle :
+
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_train_result.png?raw=true)
+
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_hist1.png?raw=true)
+
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_hist2.png?raw=true)
+
+## Evaluation du modèle entrainé :
+
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_train_metrics.png?raw=true)
+
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_interpretation.png?raw=true)
