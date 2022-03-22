@@ -18,14 +18,14 @@ Pour résoudre ce problème, on utilise d'autres métriques d'évaluation telles
 
 ## Résultats de l'entrainement du modèle :
 
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_train_result.png?raw=true)
+![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_train_result.png?raw=true)
 
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_hist1.png?raw=true)
+![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_hist1.png?raw=true)
 
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_hist2.png?raw=true)
+![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_hist2.png?raw=true)
 
 ## Evaluation du modèle entrainé :
 
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_train_metrics.png?raw=true)
+![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_train_metrics.png?raw=true)
 
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/cnn_interpretation.png?raw=true)
+![screenshot1](https://github.com/Bessouat40/Detection_pneumonie/blob/main/cnn_interpretation.png?raw=true)
