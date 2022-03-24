@@ -35,3 +35,5 @@ On voit qu'on a une precision élevée. Ce qui signifie qu'on prédit bien si un
 D'après le recall, on voit aussi que le modèle ne prédit correctement que 63% des personnes malades contre 39% des gens pas malades. C'est encore une fois un résultat qui n'est pas satisfaisant.
 
 Le F1-score qui est une sorte de "moyenne" entre recall et precision nous confirme que notre modèle n'est pas satisfaisant tel quel.
+
+# Passage en niveau de gris car aucune différence avec l'image en rgb
