@@ -6,7 +6,7 @@ A la fin du projet, j'ai utilisé un réseau de neurones qui permettra de faire 
 
 # Utilisation de classes pour simplifier l'appel de méthodes de machine/deep learning et évaluer leurs performances à l'aide de plusieurs métriques d'évaluation
 
-Sachant qu'on refait souvent les mêmes choses en pré-traitement des données et en entraînement de modèles de machine/deep learning, j'ai décidé de mettre sous forme de classes tout ce qui est répété. De cette manière, on peut appeler simplement les fonctions et on obtient une routine d'exécution du code.
+Sachant qu'on refait souvent les mêmes choses en pré-traitement des données et en entraînement de modèles de machine/deep learning, j'ai décidé de mettre sous forme de classes tout ce qui peut être automatisé. De cette manière, on peut appeler simplement les fonctions et on obtient une routine d'exécution du code. Pour finir, on peut évaluer les performances de nos modèles à l'aide de plusieurs métriques : recall, accuracy,...
 
 # Librairies nécessaires
 
